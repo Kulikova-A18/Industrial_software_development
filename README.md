@@ -16,3 +16,5 @@
 - task_2/readme.md
 - task_3/readme.md
 - task_5/readme.md
+
+Данные разделы решают вопросы тестирования. Исходники `data_prog_contest_problem_1.txt` и `data_prog_contest_problem_2.txt` не прикладываются, так как открытый репозиторий.
