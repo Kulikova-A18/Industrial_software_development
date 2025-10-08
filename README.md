@@ -15,5 +15,4 @@
 - task_1/readme.md
 - task_2/readme.md
 - task_3/readme.md
-- task_4/readme.md
 - task_5/readme.md
